@@ -1,0 +1,40 @@
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.iml
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradle
+**/build/
+**/captures/
+**/.DS_Store
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
+.idea/
+*.swp
+*.swo
+*~
+
+# Android
+.classpath
+.project
+.settings/
+
+# Mac
+.DS_Store
+
+# Misc
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.log
+*.lst
